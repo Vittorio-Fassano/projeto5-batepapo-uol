@@ -19,7 +19,6 @@
     padding:0 21px 0 22px;
 }
 
-
 .main{
 
     height: 1000px;
@@ -80,7 +79,6 @@
 }
 
 .sidebar{
-    /* display: none; */
     position: fixed;
     z-index: 5;
     top: 0;
@@ -130,7 +128,6 @@
     margin: 0 16px 0 17px;
     align-items: center;
     height: 36px;
-    /* justify-content: space-between; */
 }
 .icon{
     font-size: 23px;
@@ -259,8 +256,6 @@ b{
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
-    line-height: 25px;
-    /* or 139% */
     width: 260px;
     height: 54px;
 
